@@ -1,0 +1,11 @@
+{
+  "name": "LanguageTranslationBower",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.5",
+    "ng-translation": "^0.0.3",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-translate": "^2.11.0"
+  }
+}
